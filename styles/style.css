@@ -235,3 +235,69 @@ body {
 .card-list {
     margin-bottom: 100px;
 }
+
+.big-card {
+    background-color: rgba(241, 60, 110, 1);
+    width: 540px;
+    padding: 35px 45px 35px 40px;
+    float: left;
+}
+
+.words {
+    float: left;
+    margin-right: 64px;
+}
+
+.envelope-float {
+    float: left;
+    padding: 18px 0 0;
+}
+
+.ad {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 23px;
+    width: 251px;
+}
+
+.ad-desc {
+    color: rgba(255, 255, 255, 1);
+    line-height: 20px;
+    width: 231px;
+    margin-bottom: 25px;
+}
+
+.email {
+    padding: 9px 101px 9px 25px;
+    border-radius: 30px;
+    border-style: none;
+    width: 225px;
+}
+
+.email::placeholder {
+    color: rgba(196, 196, 196, 1);
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.first {
+    margin-right: 30px;
+}
+
+.store {
+    letter-spacing: normal;
+    border-radius: 30px;
+    padding: 7px 26px 6px 27px;
+}
+
+.less {
+    width: 141px;
+}
+
+.stores {
+    margin-right: 15px;
+}
