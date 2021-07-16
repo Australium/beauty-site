@@ -236,6 +236,10 @@ body {
     margin-bottom: 100px;
 }
 
+.big-card-wrap {
+    margin-bottom: 100px;
+}
+
 .big-card {
     background-color: rgba(241, 60, 110, 1);
     width: 540px;
@@ -300,4 +304,27 @@ body {
 
 .stores {
     margin-right: 15px;
+}
+
+.partner {
+    background-color: rgba(255, 255, 255, 1);
+    float: left;
+    padding: 32px 68px 32px 59px;
+    border: 1px solid rgba(239, 239, 239, 1);
+}
+
+.no-left {
+    border-right: none;
+}
+
+.no-right {
+    border-right: none;
+}
+
+.partner-card {
+    margin-bottom: 80px;
+}
+
+.after {
+    margin-bottom: 39px;
 }
